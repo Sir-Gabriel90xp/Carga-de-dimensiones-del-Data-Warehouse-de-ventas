@@ -1,0 +1,21 @@
+Primera ejecución
+SQLite 3.53.1
+DimProducto       3 filas
+DimCliente        3 filas
+DimSucursal       2 filas
+DimFecha          3 filas
+FactVentas        6 filas
+Origen y destino: 6 líneas, 10 unidades
+Importe conciliado: RD$ 8,200.00
+Violaciones de claves foráneas: 0
+
+Segunda ejecución
+SQLite 3.53.1
+DimProducto       3 filas
+DimCliente        3 filas
+DimSucursal       2 filas
+DimFecha          3 filas
+FactVentas        6 filas
+Origen y destino: 6 líneas, 10 unidades
+Importe conciliado: RD$ 8,200.00
+Violaciones de claves foráneas: 0
